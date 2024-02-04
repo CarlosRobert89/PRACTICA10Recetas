@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "999007438561",
+    "firebase_url": "https://ejemplofirebase-29414-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ejemplofirebase-29414",
+    "storage_bucket": "ejemplofirebase-29414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999007438561:android:41f8d94ab3f843d64a19a0",
+        "android_client_info": {
+          "package_name": "carlos.robert.a10recetas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjCGWvYMchXSCj3UZVc3l8vTmyiJw_TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999007438561:android:75addf0f8ff721f44a19a0",
+        "android_client_info": {
+          "package_name": "carlos.robert.ejemplofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjCGWvYMchXSCj3UZVc3l8vTmyiJw_TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999007438561:android:1d7349f2aa757d154a19a0",
+        "android_client_info": {
+          "package_name": "carlos.robert.ejercicio06listacompra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjCGWvYMchXSCj3UZVc3l8vTmyiJw_TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
